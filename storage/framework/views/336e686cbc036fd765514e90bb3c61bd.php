@@ -1,0 +1,2 @@
+<link rel="stylesheet" href="<?php echo e(asset('vendor/css/daterangepicker.css')); ?>">
+<?php /**PATH /home/u594498081/domains/crm.rrpateloverseas.com/public_html/resources/views/sections/daterange_css.blade.php ENDPATH**/ ?>

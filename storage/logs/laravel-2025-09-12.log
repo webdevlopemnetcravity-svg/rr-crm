@@ -1,0 +1,112 @@
+[2025-09-12 06:32:22] codecanyon.INFO: array (
+  'candidate-name' => 
+  array (
+    'data' => 'candidate-name',
+    'name' => 'candidate-name',
+    'title' => 'candidate name',
+    'visible' => 'true',
+    'orderable' => false,
+  ),
+)  
+[2025-09-12 06:32:22] codecanyon.INFO: array (
+  'candidate-name' => 
+  array (
+    'data' => 'candidate-name',
+    'name' => 'candidate-name',
+    'title' => 'candidate name',
+    'visible' => 'true',
+    'orderable' => false,
+  ),
+  'candidate-contact-details' => 
+  array (
+    'data' => 'candidate-contact-details',
+    'name' => 'candidate-contact-details',
+    'title' => 'Candidate contact details',
+    'visible' => 'true',
+    'orderable' => false,
+  ),
+)  
+[2025-09-12 07:34:39] codecanyon.INFO: array (
+  'candidate-name' => 
+  array (
+    'data' => 'candidate-name',
+    'name' => 'candidate-name',
+    'title' => 'candidate name',
+    'visible' => 'true',
+    'orderable' => false,
+  ),
+)  
+[2025-09-12 07:34:39] codecanyon.INFO: array (
+  'candidate-name' => 
+  array (
+    'data' => 'candidate-name',
+    'name' => 'candidate-name',
+    'title' => 'candidate name',
+    'visible' => 'true',
+    'orderable' => false,
+  ),
+  'candidate-contact-details' => 
+  array (
+    'data' => 'candidate-contact-details',
+    'name' => 'candidate-contact-details',
+    'title' => 'Candidate contact details',
+    'visible' => 'true',
+    'orderable' => false,
+  ),
+)  
+[2025-09-12 07:34:42] codecanyon.INFO: array (
+  'candidate-name' => 
+  array (
+    'data' => 'candidate-name',
+    'name' => 'candidate-name',
+    'title' => 'candidate name',
+    'visible' => 'true',
+    'orderable' => false,
+  ),
+)  
+[2025-09-12 07:34:42] codecanyon.INFO: array (
+  'candidate-name' => 
+  array (
+    'data' => 'candidate-name',
+    'name' => 'candidate-name',
+    'title' => 'candidate name',
+    'visible' => 'true',
+    'orderable' => false,
+  ),
+  'candidate-contact-details' => 
+  array (
+    'data' => 'candidate-contact-details',
+    'name' => 'candidate-contact-details',
+    'title' => 'Candidate contact details',
+    'visible' => 'true',
+    'orderable' => false,
+  ),
+)  
+[2025-09-12 07:34:52] codecanyon.INFO: array (
+  'candidate-name' => 
+  array (
+    'data' => 'candidate-name',
+    'name' => 'candidate-name',
+    'title' => 'candidate name',
+    'visible' => 'true',
+    'orderable' => false,
+  ),
+)  
+[2025-09-12 07:34:52] codecanyon.INFO: array (
+  'candidate-name' => 
+  array (
+    'data' => 'candidate-name',
+    'name' => 'candidate-name',
+    'title' => 'candidate name',
+    'visible' => 'true',
+    'orderable' => false,
+  ),
+  'candidate-contact-details' => 
+  array (
+    'data' => 'candidate-contact-details',
+    'name' => 'candidate-contact-details',
+    'title' => 'Candidate contact details',
+    'visible' => 'true',
+    'orderable' => false,
+  ),
+)  
